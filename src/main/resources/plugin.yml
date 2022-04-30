@@ -1,0 +1,15 @@
+name: UltimateModeration
+version: '${project.version}'
+main: dev.maahdi.UltimateModeration
+api-version: 1.13
+authors: [ Maahdi_ ]
+description: The Ultimate Moderation tool for minecraft servers!
+commands:
+  addword:
+    description: add word to the blacklist.
+  removeword:
+    description: remove word from the blacklist.
+  mreload:
+    description: Reload UltimateModeration plugin.
+  addplayer:
+    description: add player to the blacklist.

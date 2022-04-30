@@ -1,0 +1,24 @@
+BlackListed-Commands:
+  player-commands:
+    - "gmc"
+    - "op"
+  console-commands:
+    - "op"
+    - "pl"
+BlackListed-words:
+  player-commands:
+    - "nigga"
+    - "sex"
+Players-Blacklised:
+    - "Maahdi_"
+Configuration:
+  kick-player-if-bypass: false
+  ban-player-if-bypass: false
+  mute-player-if-bypass: false
+
+  Command-blacklisted: "&cThis command has been blacklisted!"
+  Word-blacklisted: "&cThis Word has been blacklisted!"
+  Player-blacklisted: "&cThis Player has been blacklisted!"
+
+  Error-using-blacklisted-word: "&cThis word is blacklisted!"
+  Error-using-blacklisted-command: "&cThis command is blacklisted!"
